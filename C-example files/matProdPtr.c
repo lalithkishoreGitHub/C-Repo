@@ -46,3 +46,9 @@ void output() {
         }
             printf("\n");
 }
+
+void main() {
+    input();
+    computeProduct();
+    output();
+}
