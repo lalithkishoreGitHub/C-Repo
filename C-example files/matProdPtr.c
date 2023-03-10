@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 int a[10][10],b[10][10],p[10][10],i,j,k,m1,n1,m2,n2,*c[10][10],*d[10][10],*q[10][10];//array of pointers
 void input() {
     printf("Enter the order of first matrix A: ");
