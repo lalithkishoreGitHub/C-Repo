@@ -1,3 +1,4 @@
+#include<stdio.h>
 int stringLength(char str[]) {
     int length=0;
     while(str[length]!='\0'){
